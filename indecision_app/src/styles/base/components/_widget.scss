@@ -1,0 +1,16 @@
+.widget {
+  background: $light-blue;
+}
+
+.widget_header {
+  background: $blue;
+  color: $off-white;
+  display: flex;
+  justify-content: space-between;
+  padding: $m-size;
+}
+
+//BEM (element)
+.widget_header__title {
+  margin: 0;
+}

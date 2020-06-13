@@ -1,0 +1,6 @@
+@import "./base/settings";
+@import "./base/base"; // when importing partials, ignore the _ and .scss
+@import "./base/components/header";
+@import "./base/components/container";
+@import "./base/components/button";
+@import "./base/components/widget";
