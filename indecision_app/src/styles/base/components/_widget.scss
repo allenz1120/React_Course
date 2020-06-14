@@ -14,3 +14,12 @@
 .widget_header__title {
   margin: 0;
 }
+
+//BEM (element)
+.widget__message{
+  color:$off-white;
+  margin:0;
+  padding:$l-size $l-size;
+  text-align:center;
+  border-bottom: 0.1rem solid lighten($light-blue,10%);
+}
